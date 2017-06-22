@@ -79,7 +79,7 @@ section h2,
     margin: 20px 20px 0 0;
     padding: 10px;
     text-align: center;
-    color: #4c4c4c;
+    color: #c6c6c6;
     border: 2px solid #c6c6c6;
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
@@ -87,7 +87,7 @@ section h2,
 }
 .button-contact:visited
 {
-    color: #C6C6C6;
+    color: #c6c6c6;
 }
 .button-contact:hover,
 .button-contact:active
